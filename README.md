@@ -1,6 +1,6 @@
-<h1 align="center">Hi all, I'm Priscilla</h1>
+<h1 align="center">Hi! I'm Priscilla</h1>
 
-<h3 align="center">I'm undefined</h3>
+<h3 align="center">I'm a senior at Boston University</h3>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=prisnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="prisnguyen" />
@@ -24,23 +24,23 @@
       </a>
 </div>
 
-<h2 align="center">Tools and Technologies 🛠</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<br>
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prisnguyen&theme=radical"/>
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=tokyonight)](https://github.com/prisnguyen)
+[![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisnguyen&theme=tokyonight&show_icons=true)](https://github.com/prisnguyen)
+[![Priscilla's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prisnguyen&theme=tokyo-night&height=300&area=true)](https://github.com/prisnguyen/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisnguyen&layout=compact&langs_count=8&hide=shaderlab,hlsl,css,cmake&theme=tokyonight)](https://github.com/prisnguyen)
+<br>Note: Top languages does not count private contributions
+<br><br>
 
-<!-- Github Stats Section -->
-<!-- <h2 align="center">Github Stats ⚡</h2>
-<p align=center>
-  <div align=center>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=prisnguyen&theme=react&border=61dafb&hide_border=true" alt="prisnguyen" />
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=prisnguyen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-</p>
--->
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+</div>
