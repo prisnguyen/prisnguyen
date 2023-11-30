@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Priscilla</h1>
 
-<h3 align="center">I'm a senior at Boston University</h3>
+<h3 align="center">I'm a senior at Boston University and on the path to becoming a software engineer/developer.</h3>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=prisnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="prisnguyen" />
