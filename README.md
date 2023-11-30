@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prisnguyen&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prisnguyen&theme=radical"/>
 </div>
 
 <!-- Github Stats Section -->
