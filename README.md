@@ -32,14 +32,15 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prisnguyen&show_icons=true&theme=radical"/>
 </div>
 
 <!-- Github Stats Section -->
-<h2 align="center">Github Stats ⚡</h2>
+<!-- <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
       <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=prisnguyen&theme=react&border=61dafb&hide_border=true" alt="prisnguyen" />
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=prisnguyen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
+-->
