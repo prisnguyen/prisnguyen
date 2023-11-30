@@ -30,9 +30,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<!-- <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisnguyen&theme=dark&layout=compact&langs_count=20&hide_title=true"/> -->
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </div>
 
 <!-- Github Stats Section -->
