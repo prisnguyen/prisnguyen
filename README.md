@@ -27,10 +27,10 @@
       </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prisnguyen&theme=tokyonight))](https://github.com/prisnguyen)
-[![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisnguyen&theme=tokyonight&show_icons=true)](https://github.com/prisnguyen)
-[![Priscilla's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prisnguyen&theme=tokyo-night&height=300&area=true)](https://github.com/prisnguyen/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisnguyen&theme=tokyonight)](https://github.com/prisnguyen/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prisnguyen&theme=gruvbox_light))](https://github.com/prisnguyen)
+[![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisnguyen&theme=gruvbox_light&show_icons=true)](https://github.com/prisnguyen)
+[![Priscilla's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prisnguyen&theme=gruvbox_light&height=300&area=true)](https://github.com/prisnguyen/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisnguyen&theme=gruvbox_light)](https://github.com/prisnguyen/github-readme-stats)
 <br>Note: Top languages does not count my private contributions
 <br><br>
 
